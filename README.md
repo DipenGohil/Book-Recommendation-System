@@ -24,7 +24,7 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository/Download the repository:**
 
-   git clone https://github.com/yourusername/book-recommendation-system.git
+   git clone https://github.com/DipenGohil/Book-Recommendation-System.git
    cd book-recommendation-system
 
 2. **Install the required libraries:**
